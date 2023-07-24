@@ -275,3 +275,4 @@ while(True):
     uart.write('00')
     #parameter_clear()
     #sendtopc()
+    #abcded
